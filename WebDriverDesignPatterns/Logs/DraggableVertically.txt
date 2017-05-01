@@ -1,0 +1,1 @@
+WebDriverDesignPatterns.AutomationPracticeTest.DraggableVerticallyC:\Users\user\Documents\Visual Studio 2017\Projects\WebDriverDesignPatterns\WebDriverDesignPatterns\bin\Debug
